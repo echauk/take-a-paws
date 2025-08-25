@@ -1,0 +1,410 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		880193162314385C000781F7 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 880193152314385C000781F7 /* FourthViewController.swift */; };
+		8808E6F123132EF90077EF37 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8808E6F023132EF90077EF37 /* ThirdViewController.swift */; };
+		8830E84722FC7AAF007A53FA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8830E84622FC7AAF007A53FA /* AppDelegate.swift */; };
+		8830E84922FC7AAF007A53FA /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8830E84822FC7AAF007A53FA /* FirstViewController.swift */; };
+		8830E84B22FC7AAF007A53FA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8830E84A22FC7AAF007A53FA /* SecondViewController.swift */; };
+		8830E84E22FC7AAF007A53FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8830E84C22FC7AAF007A53FA /* Main.storyboard */; };
+		8830E85022FC7ABB007A53FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8830E84F22FC7ABB007A53FA /* Assets.xcassets */; };
+		8830E85322FC7ABC007A53FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8830E85122FC7ABC007A53FA /* LaunchScreen.storyboard */; };
+		8855384B235BBB17002CDB8E /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8855384A235BBB17002CDB8E /* FifthViewController.swift */; };
+		88556BF3236552AF007780C2 /* Fascination.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BE8236552AE007780C2 /* Fascination.mp3 */; };
+		88556BF4236552AF007780C2 /* Moon River.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BE9236552AE007780C2 /* Moon River.mp3 */; };
+		88556BF5236552AF007780C2 /* Jasmine Flower.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BEA236552AE007780C2 /* Jasmine Flower.mp3 */; };
+		88556BF6236552AF007780C2 /* Musettas Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BEB236552AE007780C2 /* Musettas Song.mp3 */; };
+		88556BF7236552AF007780C2 /* Pomp and Circumstance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BEC236552AE007780C2 /* Pomp and Circumstance.mp3 */; };
+		88556BF8236552AF007780C2 /* Waltz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BED236552AE007780C2 /* Waltz.mp3 */; };
+		88556BF9236552AF007780C2 /* Lotus Flowers in the Wind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BEE236552AE007780C2 /* Lotus Flowers in the Wind.mp3 */; };
+		88556BFA236552AF007780C2 /* Butterfly Waltz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BEF236552AF007780C2 /* Butterfly Waltz.mp3 */; };
+		88556BFB236552AF007780C2 /* First Bloom.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BF0236552AF007780C2 /* First Bloom.mp3 */; };
+		88556BFC236552AF007780C2 /* Over the Rainbow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BF1236552AF007780C2 /* Over the Rainbow.mp3 */; };
+		88556BFD236552AF007780C2 /* Theme from Scheherazade.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88556BF2236552AF007780C2 /* Theme from Scheherazade.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		880193152314385C000781F7 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		8808E6F023132EF90077EF37 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		8830E84322FC7AAF007A53FA /* Take-A-Paws.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Take-A-Paws.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8830E84622FC7AAF007A53FA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8830E84822FC7AAF007A53FA /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		8830E84A22FC7AAF007A53FA /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		8830E84D22FC7AAF007A53FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8830E84F22FC7ABB007A53FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8830E85222FC7ABC007A53FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8830E85422FC7ABC007A53FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8855384A235BBB17002CDB8E /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		88556BE8236552AE007780C2 /* Fascination.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fascination.mp3; sourceTree = "<group>"; };
+		88556BE9236552AE007780C2 /* Moon River.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Moon River.mp3"; sourceTree = "<group>"; };
+		88556BEA236552AE007780C2 /* Jasmine Flower.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jasmine Flower.mp3"; sourceTree = "<group>"; };
+		88556BEB236552AE007780C2 /* Musettas Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Musettas Song.mp3"; sourceTree = "<group>"; };
+		88556BEC236552AE007780C2 /* Pomp and Circumstance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pomp and Circumstance.mp3"; sourceTree = "<group>"; };
+		88556BED236552AE007780C2 /* Waltz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Waltz.mp3; sourceTree = "<group>"; };
+		88556BEE236552AE007780C2 /* Lotus Flowers in the Wind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lotus Flowers in the Wind.mp3"; sourceTree = "<group>"; };
+		88556BEF236552AF007780C2 /* Butterfly Waltz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Butterfly Waltz.mp3"; sourceTree = "<group>"; };
+		88556BF0236552AF007780C2 /* First Bloom.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "First Bloom.mp3"; sourceTree = "<group>"; };
+		88556BF1236552AF007780C2 /* Over the Rainbow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Over the Rainbow.mp3"; sourceTree = "<group>"; };
+		88556BF2236552AF007780C2 /* Theme from Scheherazade.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Theme from Scheherazade.mp3"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8830E84022FC7AAF007A53FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8830E83A22FC7AAF007A53FA = {
+			isa = PBXGroup;
+			children = (
+				8830E84522FC7AAF007A53FA /* Take-A-Paws */,
+				8830E84422FC7AAF007A53FA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8830E84422FC7AAF007A53FA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8830E84322FC7AAF007A53FA /* Take-A-Paws.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8830E84522FC7AAF007A53FA /* Take-A-Paws */ = {
+			isa = PBXGroup;
+			children = (
+				8830E84622FC7AAF007A53FA /* AppDelegate.swift */,
+				8830E84822FC7AAF007A53FA /* FirstViewController.swift */,
+				8855384A235BBB17002CDB8E /* FifthViewController.swift */,
+				8830E84A22FC7AAF007A53FA /* SecondViewController.swift */,
+				8808E6F023132EF90077EF37 /* ThirdViewController.swift */,
+				880193152314385C000781F7 /* FourthViewController.swift */,
+				8830E84C22FC7AAF007A53FA /* Main.storyboard */,
+				8830E84F22FC7ABB007A53FA /* Assets.xcassets */,
+				8830E85122FC7ABC007A53FA /* LaunchScreen.storyboard */,
+				8830E85422FC7ABC007A53FA /* Info.plist */,
+				88556BEF236552AF007780C2 /* Butterfly Waltz.mp3 */,
+				88556BE8236552AE007780C2 /* Fascination.mp3 */,
+				88556BF0236552AF007780C2 /* First Bloom.mp3 */,
+				88556BEA236552AE007780C2 /* Jasmine Flower.mp3 */,
+				88556BEE236552AE007780C2 /* Lotus Flowers in the Wind.mp3 */,
+				88556BE9236552AE007780C2 /* Moon River.mp3 */,
+				88556BEB236552AE007780C2 /* Musettas Song.mp3 */,
+				88556BF1236552AF007780C2 /* Over the Rainbow.mp3 */,
+				88556BEC236552AE007780C2 /* Pomp and Circumstance.mp3 */,
+				88556BF2236552AF007780C2 /* Theme from Scheherazade.mp3 */,
+				88556BED236552AE007780C2 /* Waltz.mp3 */,
+			);
+			path = "Take-A-Paws";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8830E84222FC7AAF007A53FA /* Take-A-Paws */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8830E85722FC7ABC007A53FA /* Build configuration list for PBXNativeTarget "Take-A-Paws" */;
+			buildPhases = (
+				8830E83F22FC7AAF007A53FA /* Sources */,
+				8830E84022FC7AAF007A53FA /* Frameworks */,
+				8830E84122FC7AAF007A53FA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Take-A-Paws";
+			productName = dog4;
+			productReference = 8830E84322FC7AAF007A53FA /* Take-A-Paws.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8830E83B22FC7AAF007A53FA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1020;
+				LastUpgradeCheck = 1020;
+				ORGANIZATIONNAME = "Eshani Chauk";
+				TargetAttributes = {
+					8830E84222FC7AAF007A53FA = {
+						CreatedOnToolsVersion = 10.2.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 8830E83E22FC7AAF007A53FA /* Build configuration list for PBXProject "Take-A-Paws" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8830E83A22FC7AAF007A53FA;
+			productRefGroup = 8830E84422FC7AAF007A53FA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8830E84222FC7AAF007A53FA /* Take-A-Paws */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8830E84122FC7AAF007A53FA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88556BF8236552AF007780C2 /* Waltz.mp3 in Resources */,
+				88556BF3236552AF007780C2 /* Fascination.mp3 in Resources */,
+				88556BF9236552AF007780C2 /* Lotus Flowers in the Wind.mp3 in Resources */,
+				88556BFD236552AF007780C2 /* Theme from Scheherazade.mp3 in Resources */,
+				88556BFA236552AF007780C2 /* Butterfly Waltz.mp3 in Resources */,
+				88556BF6236552AF007780C2 /* Musettas Song.mp3 in Resources */,
+				8830E85322FC7ABC007A53FA /* LaunchScreen.storyboard in Resources */,
+				88556BF5236552AF007780C2 /* Jasmine Flower.mp3 in Resources */,
+				88556BF4236552AF007780C2 /* Moon River.mp3 in Resources */,
+				8830E85022FC7ABB007A53FA /* Assets.xcassets in Resources */,
+				8830E84E22FC7AAF007A53FA /* Main.storyboard in Resources */,
+				88556BFC236552AF007780C2 /* Over the Rainbow.mp3 in Resources */,
+				88556BFB236552AF007780C2 /* First Bloom.mp3 in Resources */,
+				88556BF7236552AF007780C2 /* Pomp and Circumstance.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8830E83F22FC7AAF007A53FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8855384B235BBB17002CDB8E /* FifthViewController.swift in Sources */,
+				8830E84B22FC7AAF007A53FA /* SecondViewController.swift in Sources */,
+				8830E84722FC7AAF007A53FA /* AppDelegate.swift in Sources */,
+				8808E6F123132EF90077EF37 /* ThirdViewController.swift in Sources */,
+				8830E84922FC7AAF007A53FA /* FirstViewController.swift in Sources */,
+				880193162314385C000781F7 /* FourthViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8830E84C22FC7AAF007A53FA /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8830E84D22FC7AAF007A53FA /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8830E85122FC7ABC007A53FA /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8830E85222FC7ABC007A53FA /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8830E85522FC7ABC007A53FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8830E85622FC7ABC007A53FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8830E85822FC7ABC007A53FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZXR7G6VFBM;
+				INFOPLIST_FILE = "$(SRCROOT)/Take-A-Paws/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.archana.Take-A-Paws";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8830E85922FC7ABC007A53FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZXR7G6VFBM;
+				INFOPLIST_FILE = "$(SRCROOT)/Take-A-Paws/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.archana.Take-A-Paws";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8830E83E22FC7AAF007A53FA /* Build configuration list for PBXProject "Take-A-Paws" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8830E85522FC7ABC007A53FA /* Debug */,
+				8830E85622FC7ABC007A53FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8830E85722FC7ABC007A53FA /* Build configuration list for PBXNativeTarget "Take-A-Paws" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8830E85822FC7ABC007A53FA /* Debug */,
+				8830E85922FC7ABC007A53FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8830E83B22FC7AAF007A53FA /* Project object */;
+}
